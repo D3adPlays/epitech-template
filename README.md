@@ -1,2 +1,2 @@
-# epitech-template
-A template for epitech projects.
+# {EPITECH.} Template
+A template for your epitech projects.
